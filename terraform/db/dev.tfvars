@@ -1,0 +1,6 @@
+environment = "dev"
+namespace   = "pc"
+name        = "pc-dev"
+region      = "eu-west-2"
+project_name = "property-collection"
+db_type      = "aurora"

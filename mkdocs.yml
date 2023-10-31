@@ -1,0 +1,11 @@
+---
+site_name: "property-collection"
+site_description: "property-collection"
+
+docs_dir: ./terraform
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
