@@ -9,7 +9,7 @@ variable "project_name" {
 variable "namespace" {
   type        = string
   description = "Namespace for the resources."
-  default     = "refarchdevops" // TODO: update me
+  default     = "pc" // TODO: update me
 }
 
 variable "region" {

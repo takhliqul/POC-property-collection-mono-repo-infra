@@ -193,4 +193,8 @@ web_acl_rules = [
     ]
   },
 ]
-environment = "poc"
+
+region          = "eu-west-2"
+namespace       = "pc"
+environment     = "dev"
+project_name    = "Property-Collection"
